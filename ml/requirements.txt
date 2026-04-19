@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+joblib
+sqlalchemy
+pymysql
+python-dotenv # Optional, useful if config.py needs to load .env directly
